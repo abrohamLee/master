@@ -6,6 +6,6 @@
   
   2. TextBook
 
-     邓俊辉 3rd DSACPP https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.html
+     邓俊辉 3rd DSACPP https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm
 
   3. 
